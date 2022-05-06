@@ -18,7 +18,7 @@ Installation
 3. Install the packages listed in the environment.yml file, either manually, or using (for example) conda:
 
 ```
-conda install -f environment.yml
+conda env create -f environment.yml
 ```
 4. Activate your environment, and install the MATLAB Python engine - on *nix systems, this is done as (where `MATLAB_ROOT` should be replaced with the full path to MATLAB):
 ```
