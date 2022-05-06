@@ -3,6 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - pandas=1.4.1
-  - pygmt=0.6.0
+  - pandas
+  - pygmt
   - pyproj=2.6
